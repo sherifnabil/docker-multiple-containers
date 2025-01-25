@@ -2,11 +2,11 @@
     "name": "server",
     "dependencies": {
         "express": "*",
-         "pg": "8.11.0",
-         "redis": "3.1.2",
-         "cors": "*",
-         "body-parser": "*",
-         "nodemon": "*"                
+        "pg": "7.4.3",
+        "redis": "3.1.2",
+        "cors": "*",
+        "body-parser": "*",
+        "nodemon": "*"                
     },
     "scripts": {
         "dev": "nodemon",
